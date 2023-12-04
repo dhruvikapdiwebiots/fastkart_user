@@ -1,0 +1,11 @@
+export 'package:fastkart_user/controllers/search_controller.dart';
+export 'package:fastkart_user/views/pages/search/util/search_constants.dart';
+export 'package:fastkart_user/views/pages/search/util/search_widget.dart';
+export 'package:fastkart_user/views/pages/search/util/search_fontstyle.dart';
+export 'package:fastkart_user/views/pages/search/search_layout/recent_search_layout.dart';
+export 'package:fastkart_user/views/pages/search/search_layout/trending_category_layout.dart';
+export 'package:fastkart_user/views/pages/search/search_layout/trending_product_layout.dart';
+export 'package:fastkart_user/shimmer_effect/search_shimmer/search_shimmer.dart';
+export 'package:fastkart_user/shimmer_effect/search_shimmer/image_horizontal_list.dart';
+export 'package:fastkart_user/shimmer_effect/search_shimmer/title_horizontal_list.dart';
+export 'package:fastkart_user/views/pages/search/search_screen.dart';

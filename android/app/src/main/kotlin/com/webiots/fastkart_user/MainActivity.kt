@@ -1,0 +1,6 @@
+package com.webiots.fastkart_user
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "442123674229",
+    "project_id": "fastkart-e69da",
+    "storage_bucket": "fastkart-e69da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442123674229:android:91a21f4256a057f5c68e3c",
+        "android_client_info": {
+          "package_name": "com.webiots.fastkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442123674229-0shmh1u19vnq859m5m3bo1mklrvou72k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webiots.fastkart",
+            "certificate_hash": "f8c8da07797bcdec04e91c04dfc02b550359cf84"
+          }
+        },
+        {
+          "client_id": "442123674229-jpekis2auo2nush600siucbl20mmrkds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webiots.fastkart",
+            "certificate_hash": "47c017f6ace00b1e10ed58dbc728b1d0782e7dbc"
+          }
+        },
+        {
+          "client_id": "442123674229-lln1nc6kots58v8i4ll5ue4p5iv76e0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webiots.fastkart",
+            "certificate_hash": "295c03e6fbc58a29fe33071a560e54beda39d236"
+          }
+        },
+        {
+          "client_id": "442123674229-v018v6el5a6mdmhjdm70elmj1qot00vg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webiots.fastkart",
+            "certificate_hash": "5dc4eefd147741939978bcd403f44d9c88856294"
+          }
+        },
+        {
+          "client_id": "442123674229-ppuscmm0jtqe1v4np7trd98v43o21shg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV9JwTwNU6yGwqL6O6Je5Hzt2aobm8-FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442123674229-ppuscmm0jtqe1v4np7trd98v43o21shg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "442123674229-1kee6iki2qt59psr6921l4osrk98octv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fastkart"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442123674229:android:56950b8dc15a4e26c68e3c",
+        "android_client_info": {
+          "package_name": "com.webiots.fastkart_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442123674229-ppuscmm0jtqe1v4np7trd98v43o21shg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV9JwTwNU6yGwqL6O6Je5Hzt2aobm8-FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442123674229-ppuscmm0jtqe1v4np7trd98v43o21shg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "442123674229-1kee6iki2qt59psr6921l4osrk98octv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fastkart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
